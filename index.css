@@ -1,0 +1,17 @@
+* {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  /* font-family: sans-serif; */
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+  gap: 20px;
+}
+
+p {
+  font-size: 20px;
+}
