@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(221, 233, 241);
+  /* text-align: center; */
+}
+
+* {
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+
+h1,
+h2 {
+  margin-top: 40px;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.div-1 {
+  background-color: white;
+  padding: 10px;
+  width: 95%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+ol {
+  width: 40%;
+  margin: 0 auto;
+  line-height: 30px;
+}
+
+blockquote {
+  width: 40%;
+  margin: 0 auto;
+  line-height: 36px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.em {
+  text-align: center;
+  /* width: 40%; */
+}
