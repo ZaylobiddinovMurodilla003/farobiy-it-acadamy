@@ -1,0 +1,42 @@
+body {
+  background-color: lightgreen;
+}
+
+ol,
+ul {
+  list-style-type: none;
+}
+
+.h1 {
+  color: white;
+  text-align: center;
+}
+
+.list {
+  background-color: white;
+}
+
+.item {
+  border: 1px solid black;
+}
+
+.item-title {
+  text-transform: uppercase;
+  font-size: 28px;
+}
+
+.personal {
+  color: gray;
+}
+
+.team {
+  color: yellow;
+}
+
+.corporate {
+  color: red;
+}
+
+.link {
+  text-decoration: none;
+}
