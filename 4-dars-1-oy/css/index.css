@@ -1,0 +1,46 @@
+body {
+  background-color: indianred;
+}
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+.heading1 {
+  text-transform: capitalize;
+  text-align: center;
+  color: #fff;
+  margin: 30px;
+}
+
+.heading2 {
+  text-transform: capitalize;
+  margin: 10px;
+}
+
+.pricing-list {
+  text-align: center;
+  list-style-type: none;
+}
+
+.pricing-item {
+  display: inline-block;
+  margin: 20px;
+}
+
+.pricing-sublist {
+  background-color: #fff;
+  text-align: center;
+  display: inline-block;
+  list-style-type: none;
+  border-radius: 10px;
+  padding: 50px;
+  line-height: 50px;
+}
+
+.pricing-subitem {
+  color: indianred;
+}
